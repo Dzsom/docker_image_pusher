@@ -1,5 +1,6 @@
 nginx
 zookeeper:3.9
+neilpang/acme.sh
 #支持私库
 
 #支持指定架构
