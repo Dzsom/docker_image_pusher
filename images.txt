@@ -2,6 +2,7 @@ nginx
 zookeeper:3.9
 neilpang/acme.sh
 mysql:8.4.2
+dannicool/docker-wechatbot-webhook:latest
 #支持私库
 
 #支持指定架构
