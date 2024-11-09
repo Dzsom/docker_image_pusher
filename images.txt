@@ -4,6 +4,7 @@ neilpang/acme.sh
 mysql:8.4.2
 dannicool/docker-wechatbot-webhook:latest
 jpomdocker/jpom:latest
+node:14-alpine
 #支持私库
 
 #支持指定架构
