@@ -1,7 +1,7 @@
 nginx
 zookeeper:3.9
 neilpang/acme.sh
-mysql:8.0.38
+mysql:8.0.37-oraclelinux8
 dannicool/docker-wechatbot-webhook:latest
 jpomdocker/jpom:latest
 node:14-alpine
