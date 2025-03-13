@@ -6,6 +6,7 @@ dannicool/docker-wechatbot-webhook:latest
 jpomdocker/jpom:latest
 node:14-alpine
 vaultwarden/server:latest
+osixia/keepalived:2.0.20
 #支持私库
 
 #支持指定架构
