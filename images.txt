@@ -10,6 +10,7 @@ osixia/keepalived:2.0.20
 freqtradeorg/freqtrade:latest
 python:3.11-slim
 jenkins/jenkins:latest-jdk17
+jenkins/jenkins:lts
 #支持私库
 
 #支持指定架构
