@@ -11,6 +11,7 @@ freqtradeorg/freqtrade:latest
 python:3.11-slim
 jenkins/jenkins:latest-jdk17
 jenkins/jenkins:lts
+node:22-bookworm
 #支持私库
 
 #支持指定架构
