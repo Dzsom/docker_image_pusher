@@ -11,7 +11,7 @@ freqtradeorg/freqtrade:latest
 python:3.11-slim
 jenkins/jenkins:latest-jdk17
 jenkins/jenkins:lts
-node:22-bookworm
+node:22-alpine
 traefik:v3.0
 #支持私库
 
