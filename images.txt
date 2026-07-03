@@ -7,6 +7,7 @@ jenkins/jenkins:lts
 node:22-alpine
 redis:7
 openjdk:17-jdk
+
 #支持私库
 
 #支持指定架构
