@@ -1,18 +1,12 @@
 nginx
-zookeeper:3.9
-neilpang/acme.sh
 mysql:8.0.37-oraclelinux8
-dannicool/docker-wechatbot-webhook:latest
-jpomdocker/jpom:latest
 node:14-alpine
-vaultwarden/server:latest
-osixia/keepalived:2.0.20
-freqtradeorg/freqtrade:latest
 python:3.11-slim
 jenkins/jenkins:latest-jdk17
 jenkins/jenkins:lts
 node:22-alpine
-traefik:v3.0
+redis:7
+openjdk:17-jdk
 #支持私库
 
 #支持指定架构
